@@ -15,7 +15,7 @@ import com.ibm.watson.developer_cloud.visual_recognition.v3.model.ClassifyOption
 public class Recognition02_main {
 	public static void main(String[] args){
 		VisualRecognition service = new VisualRecognition("2018-03-19");
-		service.setApiKey("54bb70affe6d9abb3df31d06a42b001ecaac0ac5");
+		service.setApiKey("J16019");
 
 		InputStream imagesStream = null;
 
